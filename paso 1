@@ -1,0 +1,18 @@
+int y=215;
+void setup (){
+ size(800,600);
+}
+void draw(){
+  background(255);
+  fill(0,0,255);
+  if (keyPressed && (key == CODED)) {
+    if (keyCode ==UP){
+      y--;
+     
+    }else if (keyCode == DOWN){
+    y++;
+    }
+    }
+    rect(45,y,60,30);
+   
+}
