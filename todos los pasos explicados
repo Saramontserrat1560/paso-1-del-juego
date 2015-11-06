@@ -1,0 +1,21 @@
+# paso-1-del-juego
+el rectangulo se muve hacia arriba y abajo si pulsas las flechas del teclado.
+# paso-2-del-juego
+Hemos añadido un asteriode que se mueve de derecha a izquierda solo.
+# paso-3-del-juego
+Cada vez que el asterodide toca el rectangulo suma punto.
+# paso-4-del-juego
+Hemos añadido otro asteriode que va de dercha a izquierda.
+# paso-5-del-juego
+Cada vez que un asteroide toque el rectangulo, vuelva a aparece en el sitio donde empezaba.
+# paso-6-del-juego
+En el paso 6 se añade un contrarreloj.
+# paso-7-del-juego
+Hemos añadido muchos asteroides
+# paso-8-del-juego
+Cuando llega arriba suma punto , y vuelve a aparecer el rectangulo en la parte inferior de la pantalla.
+# paso-9-del-juego
+Hemos añadido más asteroide,y hemos augmentado la velocidad del cohete y los asteroides cada vez que suma punto, al llegar al final.
+
+
+ 
